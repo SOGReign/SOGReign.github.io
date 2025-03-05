@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SOGReign.github.io.iml" filepath="$PROJECT_DIR$/.idea/SOGReign.github.io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assets/assets.iml" filepath="$PROJECT_DIR$/assets/assets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scripts/scripts.iml" filepath="$PROJECT_DIR$/scripts/scripts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/styles/styles.iml" filepath="$PROJECT_DIR$/styles/styles.iml" />
+    </modules>
+  </component>
+</project>
