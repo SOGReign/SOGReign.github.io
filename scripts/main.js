@@ -7,3 +7,9 @@ scrollContent.addEventListener("wheel", (e) => {
     behavior: "smooth",
   });
 });
+
+window.addEventListener("scroll", () => {
+  const hero = document.querySelector("#hero");
+  const scrollPosition = window.scrollY;
+  hero.style.backgroundPositionY = `${scrollPosition * 0.5}px`; // Adjust parallax speed
+});
