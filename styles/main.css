@@ -104,11 +104,11 @@ footer {
 }
 
 .bubble {
-    width: 200px; /* Initial size */
-    height: 200px;
+    width: 250px; /* Width of the rectangle */
+    height: 150px; /* Height of the rectangle */
     background-color: #007BFF;
     color: #fff;
-    border-radius: 50%; /* Circular shape */
+    border-radius: 20px; /* Rounded edges */
     display: flex;
     flex-direction: column;
     justify-content: center;
